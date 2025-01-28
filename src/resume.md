@@ -15,7 +15,6 @@ With a combined 5 years of experience in the field of Information Technology and
 ## Key Accomplishments  
 
 ---
-
 - Designed and deployed a network automation solution for VUMC Wireless Engineering and Operations.
   - Named Blankit, this Web Application was used to streamline our Access Point (AP) Lifecycle process, allowing for staging of APs to make on-site deployments faster. 
 
@@ -50,6 +49,36 @@ With a combined 5 years of experience in the field of Information Technology and
 	- Docker
 	- Multiple Cisco Software and Hardware solutions
 	- Unix and Unix-like systems
+
+---
+
+## Certifications  
+
+### Completed
+---
+
+- **CCNA** (Valid: 05/01/24 – 05/01/27)  
+
+---
+
+### In progress
+
+---
+
+- DEVNET Professional - Enterprise Automation
+  - DEVCOR - Course complete, pending exam.
+  - ENAUTO - Pending course.
+
+- CCNP - Enterprise Automation
+  - ENCOR - Course started.
+  - ENAUTO - Pending course
+
+
+## Education  
+
+---
+
+- **General Education Development Certificate**  
 
 ---
 
@@ -94,31 +123,6 @@ With a combined 5 years of experience in the field of Information Technology and
 
 ---
 
-## Education  
-- **General Education Development Certificate**  
-  *Volunteer State Community College, Gallatin, TN – August 2022*  
-
----
-
-## Certifications  
-
-### Completed
----
-- **CCNA** (Valid: 05/01/24 – 05/01/27)  
----
-
-### In progress
----
-- DEVNET Professional - Enterprise Automation
-  - DEVCOR - Course complete, pending exam.
-  - ENAUTO - Pending course.
-
-- CCNP - Enterprise Automation
-  - ENCOR - Course started.
-  - ENAUTO - Pending course
-
----
-
 ## Projects
 
 ---
@@ -132,6 +136,7 @@ These solutions range from simply providing a platform to store and display Rogu
 
 It is currently only Open-Source for VUMC as an organization, but a full open-source rewrite is underway to support a full Kubernetes and Docker Deployment, and to remove the front-end framework it uses: Streamlit.
 
+---
 
 ### catalysh
 
@@ -147,7 +152,7 @@ It is currently fully open-source, and supports all major Operation Systems, Win
 
 The code and more information is available on my Github.
 
-
+---
 
 ### vNavigator
 
@@ -161,7 +166,7 @@ It's functionally a PDF manager/viewer, and was originally developed to make it 
 
 It is still available on the Apple App store, and is free, the code is also available on my Github.
 
-
+---
 
 ## Websites & Profiles  
 
@@ -169,4 +174,5 @@ It is still available on the Apple App store, and is free, the code is also avai
 
 - **GitHub:** [github.com/tparnell96](https://github.com/tparnell96)  
 - **Personal Website**: [chronobyte.net](https://chronobyte.net)
+
 
