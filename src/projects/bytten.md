@@ -1,8 +1,7 @@
 # Bytten
 
 ---
-
-## [Link to Github](https://github.com/tparnell96/bytten)
+[Link to Github](https://github.com/tparnell96/bytten)
 
 This project is actually the one you're on right now!
 
