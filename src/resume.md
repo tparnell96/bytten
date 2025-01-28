@@ -6,17 +6,26 @@ Lebanon, TN 37087
 
 ---
 
-## Professional Summary  
-Innovative technology professional with extensive and diverse experience in the field. Proven expertise in enhancing systems and aligning technical solutions with business objectives. Track record of leading successful projects from inception to completion, driving organizational growth and agility.
+## Summary
+
+With a combined 5 years of experience in the field of Information Technology and Networking, I excel in deploying managed network solutions in a Cisco network environment, maintaining those solutions, and developing Network automation tools to improve and streamline Network management workflows. My expertise in Software design and development has been proven through multiple successful professional workflow improvements, and multiple personal projects that I continue to maintain and develop in my free time.
 
 ---
 
 ## Key Accomplishments  
-- Designed and deployed a network automation solution for VUMC.  
-- Refactored and deployed Rogue Access point tracking solution to use an SQLite3 Database instead of CSV files.
-- Assisted in the deployment of wireless network solutions for VUMC
-- Assisted in the deployment and maintenance of Clinical Workstations and mobile devices for VUMC.
-- Physically deployed clinical and administrative workstations, as well as network equipment and cabling for multiple Dental offices in Tennesee.
+
+---
+
+- Designed and deployed a network automation solution for VUMC Wireless Engineering and Operations.
+  - Named Blankit, this Web Application was used to streamline our Access Point (AP) Lifecycle process, allowing for staging of APs to make on-site deployments faster. 
+
+- Refactored and deployed Rogue Access point tracking solution to use an SQLite Database.
+  - Refactored a script developed by Engineer to work within our Web Application (Blankit) to display a Rogue Access Point report pulled from our Cisco Catalyst Center instance, utilizing a small Database solution.
+
+- Assisted in the deployment of multiple wireless network solutions for VUMC
+  - As part of Access Point Lifecycle, helped stage, and deploy multiple devices on VUMC Campus. 
+
+- Assisted in the deployment and maintenance of Clinical Windows 10 Workstations and Apple iOS devices for VUMC.
 
 ---
 
@@ -27,13 +36,11 @@ Innovative technology professional with extensive and diverse experience in the 
 	- Network Troubleshooting
 	- Wireless Networking
 	- Network Security
-	- Network Troubleshooting
 	- Network Configuration
 	
 - **Software:** 
 	- Software Architecture and Design 
 	- Software Development
-	- Mobile Application Development
 	- Code Review
 	- Debugging
 
@@ -54,28 +61,27 @@ Innovative technology professional with extensive and diverse experience in the 
 
 ---
 
-- Conduct routine checkups on wireless access points.  
 - Respond to outages and coverage loss using ITSM and Network Management solutions.  
-- Deploy and maintain automated network configuration solutions.  
-- Oversee the deployment of equipment lifecycle projects.  
-- Assist in deploying new wireless networks.  
+- Deploy and maintain automated network configuration solution.  
+- Oversee the deployment of equipment lifecycle projects.
+- Assist in deploying new wireless networks. 
 
 ---
 
 ### **Senior Field Service Technician / Team Lead**  
 **NTT DATA Services, Nashville, TN**  
 *October 2021 – April 2023*  
-- Led the NTT maintenance team for VUMC.  
+- Led the NTT maintenance team for VUMC. 
 - Verified maintenance on supported devices and handled IT incidents and requests.  
-- Managed the deployment of 261 new Computer-on-Wheels carts and 102 mobile phones for a new acquisition.  
+- Managed the deployment of 261 new Computer-on-Wheels carts and 102 iPhones for a new acquisition.  
 
 ---
 
 ### **Network Specialist**  
 **Advantage Technologies, Nashville, TN**  
 *November 2020 – October 2021*  
-- Installed servers, workstations, cabling, and network equipment for multiple Dental offices in Tennesee.
-- Troubleshot software and hardware issues for supported locations.  
+- Installed servers, workstations, network cabling, and network equipment for multiple Dental offices in Tennesee.
+- Troubleshot software and hardware issues for supported locations remotely.
 
 ---
 
@@ -83,9 +89,8 @@ Innovative technology professional with extensive and diverse experience in the 
 **NTT DATA Services, Nashville, TN**  
 *April 2019 – November 2020*  
 - Worked at the Help Desk for VUMC.
-- Maintained Howard medical carts quarterly and resolved problem tickets.  
+- Maintained Howard medical carts quarterly and resolved problem tickets. 
 - Performed testing and troubleshooting of computer systems.  
-- Assisted in deployment of mission critical devices to facilitate safe staff and family communication during COVID for VUMC.
 
 ---
 
@@ -105,10 +110,63 @@ Innovative technology professional with extensive and diverse experience in the 
 ### In progress
 ---
 - DEVNET Professional - Enterprise Automation
+  - DEVCOR - Course complete, pending exam.
+  - ENAUTO - Pending course.
+
 - CCNP - Enterprise Automation
+  - ENCOR - Course started.
+  - ENAUTO - Pending course
+
 ---
+
+## Projects
+
+---
+
+### Blankit
+
+A network automation web application.
+Originally I started development of this to assist with configuring a large number of Access Points for a specific project.
+It then grew into a multi-tool to cover multiple solutions not covered by Cisco Catalyst Center.
+These solutions range from simply providing a platform to store and display Rogue Access Point reports, migrating large numbers of Access Points from one Wireless LAN controller to another, using small groups to minimize coverage loss as they join a new controller.
+
+It is currently only Open-Source for VUMC as an organization, but a full open-source rewrite is underway to support a full Kubernetes and Docker Deployment, and to remove the front-end framework it uses: Streamlit.
+
+
+### catalysh
+
+---
+
+As a person who loves staying inside the terminal for most of his work, and to get some experience with the Rust programming language, catalysh is a command-line REPL for interacting with Cisco Catalyst Center through it's HTTP API.
+
+It's currently still under development, as there are a lot of functions to map to commands.
+
+It currently supports some show commands, application configuration commands, and comes with command hints with tab auto-completion, all utilizing a rust library called clap_repl.
+
+It is currently fully open-source, and supports all major Operation Systems, Windows, Mac, and most Linux distributions.
+
+The code and more information is available on my Github.
+
+
+
+### vNavigator
+
+---
+
+This was my first fully finished application.
+
+It is an application available on the Apple App Store for iOS.
+
+It's functionally a PDF manager/viewer, and was originally developed to make it easier to store and reference maps at work, but it also contains the ability to make small edits to PDFs and share them.
+
+It is still available on the Apple App store, and is free, the code is also available on my Github.
+
+
 
 ## Websites & Profiles  
-- **GitHub:** [github.com/tparnell96](https://github.com/tparnell96)  
 
 ---
+
+- **GitHub:** [github.com/tparnell96](https://github.com/tparnell96)  
+- **Personal Website**: [chronobyte.net](https://chronobyte.net)
+
