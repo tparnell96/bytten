@@ -20,10 +20,29 @@ Innovative technology professional with extensive and diverse experience in the 
 
 ---
 
-## Skills  
-- **Networking:** Network design, Wireless Networking, Network Security, Incident Management, Network Troubleshooting, Network Configuration.  
-- **Software:** Software Architecture and Design, Software Development, SQL integration, API Integration, Mobile Application Development, Code Review, Debugging.  
-- **Tools & Technologies:** Proficiency with Git source control, Proficient in multiple Cisco Software and Hardware solutions, proficiency with Unix and Unix-like systems and tools.  
+## Skills and Proficiencies
+
+- **Networking:** 
+	- Network Automation
+	- Network Troubleshooting
+	- Wireless Networking
+	- Network Security
+	- Network Troubleshooting
+	- Network Configuration
+	
+- **Software:** 
+	- Software Architecture and Design 
+	- Software Development
+	- Mobile Application Development
+	- Code Review
+	- Debugging
+
+- **Tools & Technologies:** 
+	- Git source control
+	- Github Workflows
+	- Docker
+	- Multiple Cisco Software and Hardware solutions
+	- Unix and Unix-like systems
 
 ---
 
@@ -87,13 +106,6 @@ Innovative technology professional with extensive and diverse experience in the 
 ---
 - DEVNET Professional - Enterprise Automation
 - CCNP - Enterprise Automation
----
-
-## Technical Proficiency  
-- **Languages:** Python, Swift, SwiftUI, Regex, Rust, Markdown  
-- **Databases:** SQL
-- **Version Control:** Git  
-
 ---
 
 ## Websites & Profiles  
