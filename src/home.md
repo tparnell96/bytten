@@ -1,6 +1,5 @@
-# Home
+# Welcome!
 
-## Welcome!
 
 My name is Kenneth Parnell.
 
