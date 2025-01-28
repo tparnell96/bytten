@@ -1,5 +1,3 @@
-# Resume
-
 # Kenneth Parnell  
 Lebanon, TN 37087  
 +1 615 906 3611 | t.parnell96@icloud.com  
@@ -13,6 +11,8 @@ With a combined 5 years of experience in the field of Information Technology and
 ## Key Accomplishments  
 
 ---
+- Developed and published an application to the Apple App Store.
+  - Created a basic PDF management tool for iOS and published it to the app store.
 - Designed and deployed a network automation solution for VUMC Wireless Engineering and Operations.
   - Named Blankit, this Web Application was used to streamline our Access Point (AP) Lifecycle process, allowing for staging of APs to make on-site deployments faster. 
 
@@ -25,7 +25,7 @@ With a combined 5 years of experience in the field of Information Technology and
 - Assisted in the deployment and maintenance of Clinical Windows 10 Workstations and Apple iOS devices for VUMC.
 
 ---
-## Skills and Proficiencies
+## Skills 
 
 - **Networking:** 
 	- Network Automation
@@ -98,7 +98,7 @@ With a combined 5 years of experience in the field of Information Technology and
 ### **Network Specialist**  
 **Advantage Technologies, Nashville, TN**  
 *November 2020 – October 2021*  
-- Installed servers, workstations, network cabling, and network equipment for multiple Dental offices in Tennesee.
+- Installed servers, workstations, network cabling, and network equipment for multiple Dental offices in Tennessee.
 - Troubleshot software and hardware issues for supported locations remotely.
 
 ---
