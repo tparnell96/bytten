@@ -5,13 +5,11 @@ Lebanon, TN 37087
 +1 615 906 3611 | t.parnell96@icloud.com  
 
 ---
-
 ## Summary
 
 With a combined 5 years of experience in the field of Information Technology and Networking, I excel in deploying managed network solutions in a Cisco network environment, maintaining those solutions, and developing Network automation tools to improve and streamline Network management workflows. My expertise in Software design and development has been proven through multiple successful professional workflow improvements, and multiple personal projects that I continue to maintain and develop in my free time.
 
 ---
-
 ## Key Accomplishments  
 
 ---
@@ -27,7 +25,6 @@ With a combined 5 years of experience in the field of Information Technology and
 - Assisted in the deployment and maintenance of Clinical Windows 10 Workstations and Apple iOS devices for VUMC.
 
 ---
-
 ## Skills and Proficiencies
 
 - **Networking:** 
@@ -51,16 +48,13 @@ With a combined 5 years of experience in the field of Information Technology and
 	- Unix and Unix-like systems
 
 ---
-
 ## Certifications  
 
 ### Completed
 ---
-
 - **CCNA** (Valid: 05/01/24 – 05/01/27)  
 
 ---
-
 ### In progress
 
 ---
@@ -73,15 +67,13 @@ With a combined 5 years of experience in the field of Information Technology and
   - ENCOR - Course started.
   - ENAUTO - Pending course
 
-
+---
 ## Education  
 
 ---
-
 - **General Education Development Certificate**  
 
 ---
-
 ## Work Experience  
 
 ### **Network Specialist | Senior Network Specialist**  
@@ -89,14 +81,12 @@ With a combined 5 years of experience in the field of Information Technology and
 *April 2023 – November 2024 | November 2024 - Present*  
 
 ---
-
 - Respond to outages and coverage loss using ITSM and Network Management solutions.  
 - Deploy and maintain automated network configuration solution.  
 - Oversee the deployment of equipment lifecycle projects.
 - Assist in deploying new wireless networks. 
 
 ---
-
 ### **Senior Field Service Technician / Team Lead**  
 **NTT DATA Services, Nashville, TN**  
 *October 2021 – April 2023*  
@@ -105,7 +95,6 @@ With a combined 5 years of experience in the field of Information Technology and
 - Managed the deployment of 261 new Computer-on-Wheels carts and 102 iPhones for a new acquisition.  
 
 ---
-
 ### **Network Specialist**  
 **Advantage Technologies, Nashville, TN**  
 *November 2020 – October 2021*  
@@ -113,7 +102,6 @@ With a combined 5 years of experience in the field of Information Technology and
 - Troubleshot software and hardware issues for supported locations remotely.
 
 ---
-
 ### **Project Technician**  
 **NTT DATA Services, Nashville, TN**  
 *April 2019 – November 2020*  
@@ -122,11 +110,9 @@ With a combined 5 years of experience in the field of Information Technology and
 - Performed testing and troubleshooting of computer systems.  
 
 ---
-
 ## Projects
 
 ---
-
 ### Blankit
 
 A network automation web application.
@@ -137,7 +123,6 @@ These solutions range from simply providing a platform to store and display Rogu
 It is currently only Open-Source for VUMC as an organization, but a full open-source rewrite is underway to support a full Kubernetes and Docker Deployment, and to remove the front-end framework it uses: Streamlit.
 
 ---
-
 ### catalysh
 
 ---
@@ -153,7 +138,6 @@ It is currently fully open-source, and supports all major Operation Systems, Win
 The code and more information is available on my Github.
 
 ---
-
 ### vNavigator
 
 ---
@@ -167,11 +151,9 @@ It's functionally a PDF manager/viewer, and was originally developed to make it 
 It is still available on the Apple App store, and is free, the code is also available on my Github.
 
 ---
-
 ## Websites & Profiles  
 
 ---
-
 - **GitHub:** [github.com/tparnell96](https://github.com/tparnell96)  
 - **Personal Website**: [chronobyte.net](https://chronobyte.net)
 
