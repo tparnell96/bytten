@@ -1,5 +1,9 @@
 # Catalysh
 
+---
+
+[Link to Github](https://github.com/tparnell96/catalysh)
+
 This is a rust project I like to work on periodically to get some practice with rust.
 
 It's a tool for interacting with a Cisco Catalyst Center Endpoint via HTTP.
