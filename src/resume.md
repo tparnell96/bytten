@@ -48,13 +48,14 @@ With a combined 5 years of experience in the field of Information Technology and
 
 ### Completed
 ---
+#### Cisco
 - **CCNA** (Valid: 05/01/24 – 05/01/27)  
 
 ---
 ### In progress
 
 ---
-
+#### Cisco
 - DEVNET Professional - Enterprise Automation
   - DEVCOR - Course complete, pending exam.
   - ENAUTO - Pending course.
@@ -67,7 +68,7 @@ With a combined 5 years of experience in the field of Information Technology and
 ## Education  
 
 ---
-- **General Education Development Certificate**  
+- **High School Equivalency Diploma**  
 
 ---
 ## Work Experience  
