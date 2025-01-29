@@ -1,10 +1,4 @@
-# Resume
 
-# Kenneth Parnell  
-Lebanon, TN 37087  
-+1 615 906 3611 | t.parnell96@icloud.com  
-
----
 
 ## Professional Summary  
 Innovative technology professional with extensive and diverse experience in the field. Proven expertise in enhancing systems and aligning technical solutions with business objectives. Track record of leading successful projects from inception to completion, driving organizational growth and agility.
